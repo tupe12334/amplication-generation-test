@@ -1,0 +1,1 @@
+# amplication-generation-test
